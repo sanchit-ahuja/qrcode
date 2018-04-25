@@ -28,3 +28,4 @@ class Tickets(models.Model):
         return self.student.name
 
 
+#Done
